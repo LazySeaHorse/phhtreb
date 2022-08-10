@@ -62,4 +62,3 @@ jobs:
 
           path: app/build/outputs/apk/release
 
- #         path: ${{ env.ARTIFACT_PATH }}
